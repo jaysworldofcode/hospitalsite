@@ -1,0 +1,39 @@
+{"data": [
+  {"type": "What we treat",
+  "value": "HEAD AND NECK",
+  "data": {
+    "items": [
+      {"value": "Whitening is among the most popular dental"},
+      {"value": "Teeth cleaning is part of oral hygiene and involves"},
+      {"value": "Close"}
+    ]
+  }},
+  {"type": "What we treat",
+  "value": "NOSE, SINUSES AND SKULL BASE",
+  "data": {
+    "items": [
+      {"value": "Whitening is among the most popular dental"},
+      {"value": "Teeth cleaning is part of oral hygiene and involves"},
+      {"value": "Close"}
+    ]
+  }},
+  {"type": "What we treat",
+  "value": "EAR",
+  "data": {
+    "items": [
+      {"value": "Whitening is among the most popular dental"},
+      {"value": "Teeth cleaning is part of oral hygiene and involves"},
+      {"value": "Close"}
+    ]
+  }},
+  {"type": "What we treat",
+  "value": "LARYNX",
+  "data": {
+    "items": [
+      {"value": "Whitening is among the most popular dental"},
+      {"value": "Teeth cleaning is part of oral hygiene and involves"},
+      {"value": "Close"}
+    ]
+  }}
+  ]
+}
